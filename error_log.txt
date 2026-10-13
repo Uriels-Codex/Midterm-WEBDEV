@@ -1,0 +1,6 @@
+[2026-10-11 17:13:37] Upload Error: File not completely uploaded or missing.
+[2026-10-11 17:13:38] Upload Error: File not completely uploaded or missing.
+[2026-10-11 17:13:39] Upload Error: File not completely uploaded or missing.
+[2026-10-12 17:08:13] Upload Error: Could not save the file record.
+[2026-10-12 17:08:13] Fetch files error: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[2026-10-12 17:22:37] Upload Error: File exceeds 2 MB size limit.
